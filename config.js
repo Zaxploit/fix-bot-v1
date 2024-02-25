@@ -37,17 +37,17 @@ global.sdc = '-' //discord
 global.snh = 'https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow' // my youtube channel
 
 /*============== PAYMENT ==============*/
-global.pdana = '08XXXXXXXXXX' //dana
-global.povo = '08XXXXXXXXXX' //ovo
-global.pgopay = '08XXXXXXXXXX' //gopay
-global.plinkaja = '08XXXXXXXXXX' //link aja
+global.pdana = '083890107168' //dana
+global.povo = '083890107168' //ovo
+global.pgopay = '083890107168' //gopay
+global.plinkaja = '083890107168' //link aja
 global.ppulsa = '08XXXXXXXXXX' //telkomsel
 global.ppulsa2 = '08XXXXXXXXXX' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/mrw4h1d'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '628XXXXXXXXXX'
-global.nomorown = '628XXXXXXXXXX'
+global.nomorbot = '6281617945484'
+global.nomorown = '6283890107168'
 global.namebot = 'WH-MODS-BOT-V1'
 global.nameown = 'WH MODS DEV'
 
@@ -58,7 +58,7 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID 357d3c85079c4e0818731e
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['628XXXXXXXXXX', 'WH MODS DEV', true],
+  ['6283890107167', 'WH MODS DEV', true],
   ['-', 'isi_kalau_ada', true],
   ['-', 'isi_kalau_ada', true],
   ['-', 'isi_kalau_ada', true] //Ganti jd nomormu sama Namamu
